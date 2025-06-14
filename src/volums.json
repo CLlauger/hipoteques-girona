@@ -1,0 +1,2900 @@
+[
+  {
+    "nom": "Tom 1",
+    "titol": "Registre general d'escriptures",
+    "data": "1768",
+    "codi_ref": "AHG170-251-T2-1",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 2",
+    "titol": "Registre general d'escriptures",
+    "data": "1769",
+    "codi_ref": "AHG170-251-T2-2",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 3",
+    "titol": "Registre general d'escriptures",
+    "data": "1769",
+    "codi_ref": "AHG170-251-T2-3",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 4",
+    "titol": "Registre general d'escriptures",
+    "data": "1770",
+    "codi_ref": "AHG170-251-T2-4",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 5",
+    "titol": "Registre general d'escriptures",
+    "data": "1770",
+    "codi_ref": "AHG170-251-T2-5",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 6",
+    "titol": "Registre general d'escriptures",
+    "data": "1771",
+    "codi_ref": "AHG170-251-T2-6",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 7",
+    "titol": "Registre general d'escriptures",
+    "data": "1771",
+    "codi_ref": "AHG170-251-T2-7",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 8",
+    "titol": "Registre general d'escriptures",
+    "data": "1772",
+    "codi_ref": "AHG170-251-T2-10",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 9",
+    "titol": "Registre general d'escriptures",
+    "data": "1772",
+    "codi_ref": "AHG170-251-T2-8",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 10",
+    "titol": "Registre general d'escriptures",
+    "data": "1772",
+    "codi_ref": "AHG170-251-T2-9",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 11",
+    "titol": "Registre general d'escriptures",
+    "data": "1773",
+    "codi_ref": "AHG170-251-T2-12",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 12",
+    "titol": "Registre general d'escriptures",
+    "data": "1773",
+    "codi_ref": "AHG170-251-T2-11",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 13",
+    "titol": "Registre general d'escriptures",
+    "data": "1773",
+    "codi_ref": "AHG170-251-T2-13",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 14",
+    "titol": "Registre general d'escriptures",
+    "data": "1774",
+    "codi_ref": "AHG170-251-T2-14",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 15",
+    "titol": "Registre general d'escriptures",
+    "data": "1774",
+    "codi_ref": "AHG170-251-T2-15",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 16",
+    "titol": "Registre general d'escriptures",
+    "data": "1774",
+    "codi_ref": "AHG170-251-T2-16",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 17",
+    "titol": "Registre general d'escriptures",
+    "data": "1775",
+    "codi_ref": "AHG170-251-T2-17",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 18",
+    "titol": "Registre general d'escriptures",
+    "data": "1775",
+    "codi_ref": "AHG170-251-T2-18",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 19",
+    "titol": "Registre general d'escriptures",
+    "data": "1776",
+    "codi_ref": "AHG170-251-T2-19",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 20",
+    "titol": "Registre general d'escriptures",
+    "data": "1776",
+    "codi_ref": "AHG170-251-T2-20",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 21",
+    "titol": "Registre general d'escriptures",
+    "data": "1777",
+    "codi_ref": "AHG170-251-T2-21",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 22",
+    "titol": "Registre general d'escriptures",
+    "data": "1777",
+    "codi_ref": "AHG170-251-T2-22",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 23",
+    "titol": "Registre general d'escriptures",
+    "data": "1778",
+    "codi_ref": "AHG170-251-T2-23",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 24",
+    "titol": "Registre general d'escriptures",
+    "data": "1778",
+    "codi_ref": "AHG170-251-T2-24",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 25",
+    "titol": "Registre general d'escriptures",
+    "data": "1779",
+    "codi_ref": "AHG170-251-T2-25",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 26",
+    "titol": "Registre general d'escriptures",
+    "data": "1779",
+    "codi_ref": "AHG170-251-T2-26",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 27",
+    "titol": "Registre general d'escriptures",
+    "data": "1780",
+    "codi_ref": "AHG170-251-T2-28",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 28",
+    "titol": "Registre general d'escriptures",
+    "data": "1780",
+    "codi_ref": "AHG170-251-T2-27",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 29",
+    "titol": "Registre general d'escriptures",
+    "data": "1781",
+    "codi_ref": "AHG170-251-T2-30",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 30",
+    "titol": "Registre general d'escriptures",
+    "data": "1781",
+    "codi_ref": "AHG170-251-T2-29",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 31",
+    "titol": "Registre general d'escriptures",
+    "data": "1782",
+    "codi_ref": "AHG170-251-T2-31",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 32",
+    "titol": "Registre general d'escriptures",
+    "data": "1782",
+    "codi_ref": "AHG170-251-T2-32",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 33",
+    "titol": "Registre general d'escriptures",
+    "data": "1783",
+    "codi_ref": "AHG170-251-T2-33",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 34",
+    "titol": "Registre general d'escriptures",
+    "data": "1783",
+    "codi_ref": "AHG170-251-T2-34",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 35",
+    "titol": "Registre general d'escriptures",
+    "data": "1784",
+    "codi_ref": "AHG170-251-T2-36",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 36",
+    "titol": "Registre general d'escriptures",
+    "data": "1784",
+    "codi_ref": "AHG170-251-T2-35",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 37",
+    "titol": "Registre general d'escriptures",
+    "data": "1785",
+    "codi_ref": "AHG170-251-T2-38",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 38",
+    "titol": "Registre general d'escriptures",
+    "data": "1785",
+    "codi_ref": "AHG170-251-T2-37",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 39",
+    "titol": "Registre general d'escriptures",
+    "data": "1786",
+    "codi_ref": "AHG170-251-T2-39",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 40",
+    "titol": "Registre general d'escriptures",
+    "data": "1786",
+    "codi_ref": "AHG170-251-T2-40",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 41",
+    "titol": "Registre general d'escriptures",
+    "data": "1787",
+    "codi_ref": "AHG170-251-T2-41",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 42",
+    "titol": "Registre general d'escriptures",
+    "data": "1787",
+    "codi_ref": "AHG170-251-T2-42",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 43",
+    "titol": "Registre general d'escriptures",
+    "data": "1788",
+    "codi_ref": "AHG170-251-T2-44",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 44",
+    "titol": "Registre general d'escriptures",
+    "data": "1788",
+    "codi_ref": "AHG170-251-T2-43",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 45",
+    "titol": "Registre general d'escriptures",
+    "data": "1789",
+    "codi_ref": "AHG170-251-T2-46",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 46",
+    "titol": "Registre general d'escriptures",
+    "data": "1789",
+    "codi_ref": "AHG170-251-T2-45",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 47",
+    "titol": "Registre general d'escriptures",
+    "data": "1790",
+    "codi_ref": "AHG170-251-T2-48",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 48",
+    "titol": "Registre general d'escriptures",
+    "data": "1790",
+    "codi_ref": "AHG170-251-T2-47",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 49",
+    "titol": "Registre general d'escriptures",
+    "data": "1791",
+    "codi_ref": "AHG170-251-T2-49",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 50",
+    "titol": "Registre general d'escriptures",
+    "data": "1791",
+    "codi_ref": "AHG170-251-T2-50",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 51",
+    "titol": "Registre general d'escriptures",
+    "data": "1792",
+    "codi_ref": "AHG170-251-T2-52",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 52",
+    "titol": "Registre general d'escriptures",
+    "data": "1792",
+    "codi_ref": "AHG170-251-T2-51",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 53",
+    "titol": "Registre general d'escriptures",
+    "data": "1793",
+    "codi_ref": "AHG170-251-T2-53",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 54",
+    "titol": "Registre general d'escriptures",
+    "data": "1793",
+    "codi_ref": "AHG170-251-T2-53",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 55",
+    "titol": "Registre general d'escriptures",
+    "data": "1794",
+    "codi_ref": "AHG170-251-T2-54",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 56",
+    "titol": "Registre general d'escriptures",
+    "data": "1794",
+    "codi_ref": "AHG170-251-T2-54",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 57",
+    "titol": "Registre general d'escriptures",
+    "data": "1795",
+    "codi_ref": "AHG170-251-T2-55",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 58",
+    "titol": "Registre general d'escriptures",
+    "data": "1796",
+    "codi_ref": "AHG170-251-T2-57",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 59",
+    "titol": "Registre general d'escriptures",
+    "data": "1796",
+    "codi_ref": "AHG170-251-T2-56",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 60",
+    "titol": "Registre general d'escriptures",
+    "data": "1797",
+    "codi_ref": "AHG170-251-T2-58",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 61",
+    "titol": "Registre general d'escriptures",
+    "data": "1797",
+    "codi_ref": "AHG170-251-T2-59",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 62",
+    "titol": "Registre general d'escriptures",
+    "data": "1798",
+    "codi_ref": "AHG170-251-T2-61",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 63",
+    "titol": "Registre general d'escriptures",
+    "data": "1798",
+    "codi_ref": "AHG170-251-T2-60",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 64",
+    "titol": "Registre general d'escriptures",
+    "data": "1799",
+    "codi_ref": "AHG170-251-T2-63",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 65",
+    "titol": "Registre general d'escriptures",
+    "data": "1799",
+    "codi_ref": "AHG170-251-T2-62",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 66",
+    "titol": "Registre general d'escriptures",
+    "data": "1800",
+    "codi_ref": "AHG170-251-T2-65",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 67",
+    "titol": "Registre general d'escriptures",
+    "data": "1800",
+    "codi_ref": "AHG170-251-T2-64",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 68",
+    "titol": "Registre general d'escriptures",
+    "data": "1801",
+    "codi_ref": "AHG170-251-T2-67",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 69",
+    "titol": "Registre general d'escriptures",
+    "data": "1801",
+    "codi_ref": "AHG170-251-T2-66",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 70",
+    "titol": "Registre general d'escriptures",
+    "data": "1802",
+    "codi_ref": "AHG170-251-T2-69",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 71",
+    "titol": "Registre general d'escriptures",
+    "data": "1802",
+    "codi_ref": "AHG170-251-T2-68",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 72",
+    "titol": "Registre general d'escriptures",
+    "data": "1803",
+    "codi_ref": "AHG170-251-T2-71",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 73",
+    "titol": "Registre general d'escriptures",
+    "data": "1803",
+    "codi_ref": "AHG170-251-T2-70",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 74",
+    "titol": "Registre general d'escriptures",
+    "data": "1804",
+    "codi_ref": "AHG170-251-T2-72",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 75",
+    "titol": "Registre general d'escriptures",
+    "data": "1804",
+    "codi_ref": "AHG170-251-T2-73",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 76",
+    "titol": "Registre general d'escriptures",
+    "data": "1805",
+    "codi_ref": "AHG170-251-T2-75",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 77",
+    "titol": "Registre general d'escriptures",
+    "data": "1805",
+    "codi_ref": "AHG170-251-T2-74",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 78",
+    "titol": "Registre general d'escriptures",
+    "data": "1806",
+    "codi_ref": "AHG170-251-T2-77",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 79",
+    "titol": "Registre general d'escriptures",
+    "data": "1806",
+    "codi_ref": "AHG170-251-T2-76",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 80",
+    "titol": "Registre general d'escriptures",
+    "data": "1807",
+    "codi_ref": "AHG170-251-T2-79",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 81",
+    "titol": "Registre general d'escriptures",
+    "data": "1807",
+    "codi_ref": "AHG170-251-T2-78",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 82",
+    "titol": "Registre general d'escriptures",
+    "data": "1808",
+    "codi_ref": "AHG170-251-T2-80",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 83",
+    "titol": "Registre general d'escriptures",
+    "data": "1809",
+    "codi_ref": "AHG170-251-T2-81",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 84",
+    "titol": "Registre general d'escriptures",
+    "data": "1810",
+    "codi_ref": "AHG170-251-T2-82",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 85",
+    "titol": "Registre general d'escriptures",
+    "data": "1811",
+    "codi_ref": "AHG170-251-T2-83",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 86",
+    "titol": "Registre general d'escriptures",
+    "data": "1812",
+    "codi_ref": "AHG170-251-T2-84",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 87",
+    "titol": "Registre general d'escriptures",
+    "data": "1813",
+    "codi_ref": "AHG170-251-T2-85",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 88",
+    "titol": "Registre general d'escriptures",
+    "data": "1814",
+    "codi_ref": "AHG170-251-T2-86",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 89",
+    "titol": "Registre general d'escriptures",
+    "data": "1815",
+    "codi_ref": "AHG170-251-T2-87",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 90",
+    "titol": "Registre general d'escriptures",
+    "data": "1816",
+    "codi_ref": "AHG170-251-T2-88",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 91",
+    "titol": "Registre general d'escriptures",
+    "data": "1817",
+    "codi_ref": "AHG170-251-T2-89",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 92",
+    "titol": "Registre general d'escriptures",
+    "data": "1818",
+    "codi_ref": "AHG170-251-T2-90",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 93",
+    "titol": "Registre general d'escriptures",
+    "data": "1819",
+    "codi_ref": "AHG170-251-T2-91",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 94",
+    "titol": "Registre general d'escriptures",
+    "data": "1820",
+    "codi_ref": "AHG170-251-T2-92",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 95",
+    "titol": "Registre general d'escriptures",
+    "data": "1821",
+    "codi_ref": "AHG170-251-T2-93",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 96",
+    "titol": "Registre general d'escriptures",
+    "data": "1822",
+    "codi_ref": "AHG170-251-T2-94",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 97",
+    "titol": "Registre general d'escriptures",
+    "data": "1823",
+    "codi_ref": "AHG170-251-T2-95",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 98",
+    "titol": "Registre general d'escriptures",
+    "data": "1824",
+    "codi_ref": "AHG170-251-T2-96",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 99",
+    "titol": "Registre general d'escriptures",
+    "data": "1825",
+    "codi_ref": "AHG170-251-T2-97",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 100",
+    "titol": "Registre general d'escriptures",
+    "data": "1826",
+    "codi_ref": "AHG170-251-T2-98",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 101",
+    "titol": "Registre general d'escriptures",
+    "data": "1827",
+    "codi_ref": "AHG170-251-T2-109",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 102",
+    "titol": "Registre general d'escriptures",
+    "data": "1828",
+    "codi_ref": "AHG170-251-T2-100",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 103",
+    "titol": "Registre general d'escriptures",
+    "data": "1828",
+    "codi_ref": "AHG170-251-T2-101",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 104",
+    "titol": "Registre general d'escriptures",
+    "data": "1829",
+    "codi_ref": "AHG170-251-T2-102",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 105",
+    "titol": "Registre general d'escriptures",
+    "data": "1830",
+    "codi_ref": "AHG170-251-T2-103",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 106",
+    "titol": "Registre general d'escriptures",
+    "data": "1831",
+    "codi_ref": "AHG170-251-T2-104",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 107",
+    "titol": "Registre general d'escriptures",
+    "data": "1832",
+    "codi_ref": "AHG170-251-T2-105",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 108",
+    "titol": "Registre general d'escriptures",
+    "data": "1833",
+    "codi_ref": "AHG170-251-T2-106",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 109",
+    "titol": "Registre general d'escriptures",
+    "data": "1834",
+    "codi_ref": "AHG170-251-T2-107",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 110",
+    "titol": "Registre general d'escriptures",
+    "data": "1834",
+    "codi_ref": "AHG170-251-T2-108",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 111",
+    "titol": "Registre general d'escriptures",
+    "data": "1835",
+    "codi_ref": "AHG170-251-T2-119",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 112",
+    "titol": "Registre general d'escriptures",
+    "data": "1836",
+    "codi_ref": "AHG170-251-T2-110",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 113",
+    "titol": "Registre general d'escriptures",
+    "data": "1837",
+    "codi_ref": "AHG170-251-T2-111",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 114",
+    "titol": "Registre general d'escriptures",
+    "data": "1838",
+    "codi_ref": "AHG170-251-T2-112",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 115",
+    "titol": "Registre general d'escriptures",
+    "data": "1839",
+    "codi_ref": "AHG170-251-T2-113",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 116",
+    "titol": "Registre general d'escriptures",
+    "data": "1840",
+    "codi_ref": "AHG170-251-T2-114",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 117",
+    "titol": "Registre general d'escriptures",
+    "data": "1841",
+    "codi_ref": "AHG170-251-T2-115",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 118",
+    "titol": "Registre general d'escriptures",
+    "data": "1842",
+    "codi_ref": "AHG170-251-T2-116",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 119",
+    "titol": "Registre general d'escriptures",
+    "data": "1843",
+    "codi_ref": "AHG170-251-T2-117",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 120",
+    "titol": "Registre general d'escriptures",
+    "data": "1844",
+    "codi_ref": "AHG170-251-T2-128",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 121",
+    "titol": "Registre general d'escriptures",
+    "data": "1845",
+    "codi_ref": "AHG170-251-T2-129",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 122",
+    "titol": "Registre particular d'escriptures",
+    "data": "1830",
+    "codi_ref": "AHG170-251-T2-122",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 123",
+    "titol": "Registre particular d'escriptures",
+    "data": "1831",
+    "codi_ref": "AHG170-251-T2-123",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 124",
+    "titol": "Registre particular d'escriptures",
+    "data": "1832",
+    "codi_ref": "AHG170-251-T2-124",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 125",
+    "titol": "Registre particular d'escriptures",
+    "data": "1833",
+    "codi_ref": "AHG170-251-T2-125",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 126",
+    "titol": "Registre particular d'escriptures",
+    "data": "1834",
+    "codi_ref": "AHG170-251-T2-126",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 127",
+    "titol": "Registre particular d'escriptures",
+    "data": "1835",
+    "codi_ref": "AHG170-251-T2-127",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 128",
+    "titol": "Registre particular d'escriptures",
+    "data": "1836",
+    "codi_ref": "AHG170-251-T2-1230",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 129",
+    "titol": "Registre particular d'escriptures",
+    "data": "1837",
+    "codi_ref": "AHG170-251-T2-128",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 130",
+    "titol": "Registre particular d'escriptures",
+    "data": "1838",
+    "codi_ref": "AHG170-251-T2-129",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 131",
+    "titol": "Registre particular d'escriptures",
+    "data": "1839",
+    "codi_ref": "AHG170-251-T2-130",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 132",
+    "titol": "Registre particular d'escriptures",
+    "data": "1840",
+    "codi_ref": "AHG170-251-T2-131",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 133",
+    "titol": "Registre particular d'escriptures",
+    "data": "1841",
+    "codi_ref": "AHG170-251-T2-132",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 134",
+    "titol": "Registre particular d'escriptures",
+    "data": "1842",
+    "codi_ref": "AHG170-251-T2-133",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 135",
+    "titol": "Registre particular d'escriptures",
+    "data": "1843",
+    "codi_ref": "AHG170-251-T2-134",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 136",
+    "titol": "Registre particular d'escriptures",
+    "data": "1844",
+    "codi_ref": "AHG170-251-T2-135",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 137",
+    "titol": "Registre particular d'escriptures",
+    "data": "1845",
+    "codi_ref": "AHG170-251-T2-136",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 138",
+    "titol": "Registre particular d'escriptures",
+    "data": "1846",
+    "codi_ref": "AHG170-251-T2-137",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 139",
+    "titol": "Registre particular d'escriptures",
+    "data": "1847",
+    "codi_ref": "AHG170-251-T2-138",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 140",
+    "titol": "Trasllats de domini (urbanes): l'Armentera i Amer",
+    "data": "1845-1862",
+    "codi_ref": "AHG170-251-T2-155",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 141",
+    "titol": "Trasllats de domini (urbanes): Aiguaviva i Bescanó",
+    "data": "1845-1862",
+    "codi_ref": "AHG170-251-T2-139",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 142",
+    "titol": "Trasllats de domini (urbanes): Banyoles",
+    "data": "1845-1859",
+    "codi_ref": "AHG170-251-T2-140",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 143",
+    "titol": "Trasllats de domini (urbanes): Banyoles",
+    "data": "1845-1860",
+    "codi_ref": "AHG170-251-T2-141",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 144",
+    "titol": "Trasllats de domini (urbanes): Bàscara i Calabuig",
+    "data": "1845-1862",
+    "codi_ref": "AHG170-251-T2-142",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 145",
+    "titol": "Trasllats de domini (urbanes): Bordils i Borgonyà",
+    "data": "1845-1862",
+    "codi_ref": "AHG170-251-T2-143",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 146",
+    "titol": "Trasllats de domini (urbanes): Cassà de la Selva",
+    "data": "1845-1858",
+    "codi_ref": "AHG170-251-T2-145",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 147",
+    "titol": "Trasllats de domini (urbanes): Cassà de la Selva",
+    "data": "1845-1858",
+    "codi_ref": "AHG170-251-T2-144",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 148",
+    "titol": "Trasllats de domini (urbanes): Cervià, Cornellà i l'Escala",
+    "data": "1845-1862",
+    "codi_ref": "AHG170-251-T2-147",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 149",
+    "titol": "Trasllats de domini (urbanes): Esponellà i Fornells",
+    "data": "1845-1862",
+    "codi_ref": "AHG170-251-T2-148",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 150",
+    "titol": "Trasllats de domini (urbanes): Fallines i Galliners",
+    "data": "1845-1862",
+    "codi_ref": "AHG170-251-T2-149",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 151",
+    "titol": "Trasllats de domini (urbanes): Flaçà, Fontcoberta i Maranyà",
+    "data": "1845-1862",
+    "codi_ref": "AHG170-251-T2-150",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 152",
+    "titol": "Trasllats de domini (urbanes): Gaüses i Sta. Llogaia del Terri",
+    "data": "1845-1862",
+    "codi_ref": "AHG170-251-T2-151",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 153",
+    "titol": "Trasllats de domini (urbanes): Girona",
+    "data": "1845-1855",
+    "codi_ref": "AHG170-251-T2-152",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 154",
+    "titol": "Trasllats de domini (urbanes): Girona",
+    "data": "1845-1860",
+    "codi_ref": "AHG170-251-T2-154",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 155",
+    "titol": "Trasllats de domini (urbanes): Girona",
+    "data": "1845-1860",
+    "codi_ref": "AHG170-251-T2-153",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 156",
+    "titol": "Trasllats de domini (urbanes): Medinyà",
+    "data": "1845-1862",
+    "codi_ref": "AHG170-251-T2-156",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 157",
+    "titol": "Trasllats de domini (urbanes): Orfes i Orriols",
+    "data": "1845-1862",
+    "codi_ref": "AHG170-251-T2-157",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 158",
+    "titol": "Trasllats de domini (urbanes): Palol d'Onyar i Quart",
+    "data": "1845-1862",
+    "codi_ref": "AHG170-251-T2-158",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 159",
+    "titol": "Trasllats de domini (urbanes): Riudellots de la Creu i Juià",
+    "data": "1845-1862",
+    "codi_ref": "AHG170-251-T2-159",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 160",
+    "titol": "Trasllats de domini (urbanes): Celrà i Vilavenut",
+    "data": "1845-1862",
+    "codi_ref": "AHG170-251-T2-146",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 161",
+    "titol": "Trasllats de domini (urbanes): Sarrià i Sant Joan de Mollet",
+    "data": "1845-1862",
+    "codi_ref": "AHG170-251-T2-164",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 162",
+    "titol": "Trasllats de domini (urbanes): Sant Ponç, Sant Gregori i Cartellà",
+    "data": "1845-1862",
+    "codi_ref": "AHG170-251-T2-163",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 163",
+    "titol": "Trasllats de domini (urbanes): Serinyà, Sant Julià de R. i Sant Julià de Llor",
+    "data": "1845-1862",
+    "codi_ref": "AHG170-251-T2-165",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 164",
+    "titol": "Trasllats de domini (urbanes): Sant Jordi Desvalls i Sant Martí Vell",
+    "data": "1845-1862",
+    "codi_ref": "AHG170-251-T2-161",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 165",
+    "titol": "Trasllats de domini (urbanes): Sords i Sant Esteve de Guialbes",
+    "data": "1845-1862",
+    "codi_ref": "AHG170-251-T2-169",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 166",
+    "titol": "Trasllats de domini (urbanes): Sant Martí de Llémena i Sant Medir",
+    "data": "1845-1862",
+    "codi_ref": "AHG170-251-T2-162",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 167",
+    "titol": "Trasllats de domini (urbanes): Sant Daniel i Santa Eugènia",
+    "data": "1845-1862",
+    "codi_ref": "AHG170-251-T2-160",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 168",
+    "titol": "Trasllats de domini (urbanes): Sobrànigues i Salt",
+    "data": "1845-1862",
+    "codi_ref": "AHG170-251-T2-166",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 169",
+    "titol": "Trasllats de domini (urbanes): Vilademuls, Vilablareix i Viladasens",
+    "data": "1845-1862",
+    "codi_ref": "AHG170-251-T2-167",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 170",
+    "titol": "Trasllats de domini (urbanes): Vilert, Vilafreser i Vilopriu",
+    "data": "1845-1862",
+    "codi_ref": "AHG170-251-T2-168",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 171",
+    "titol": "Trasllats de domini (rústiques): Adri i l'Armentera", "data": "1845-1862",
+    "codi_ref": "AHG170-251-T2-170",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 172",
+    "titol": "Trasllats de domini (rústiques): Aiguaviva i Amer", "data": "1845-1862",
+    "codi_ref": "AHG170-251-T2-171",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 173",
+    "titol": "Trasllats de domini (rústiques): Banyoles", "data": "1845-1857",
+    "codi_ref": "AHG170-251-T2-172",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 174",
+    "titol": "Trasllats de domini (rústiques): Banyoles", "data": "1857-1862",
+    "codi_ref": "AHG170-251-T2-173",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 175",
+    "titol": "Trasllats de domini (rústiques): Bàscara", "data": "1845-1862",
+    "codi_ref": "AHG170-251-T2-174",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 176",
+    "titol": "Trasllats de domini (rústiques): Bellcaire i Biert", "data": "1845-1862",
+    "codi_ref": "AHG170-251-T2-175",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 177",
+    "titol": "Trasllats de domini (rústiques): Bescanó", "data": "1845-1862",
+    "codi_ref": "AHG170-251-T2-176",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 178",
+    "titol": "Trasllats de domini (rústiques): Bordils", "data": "1845-1862",
+    "codi_ref": "AHG170-251-T2-177",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 179",
+    "titol": "Trasllats de domini (rústiques): Borgonyà", "data": "1845-1862",
+    "codi_ref": "AHG170-251-T2-178",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 180",
+    "titol": "Trasllats de domini (rústiques): Cervià i Colomers", "data": "1845-1862",
+    "codi_ref": "AHG170-251-T2-188",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 181",
+    "titol": "Trasllats de domini (rústiques): Cervià", "data": "1860-1862",
+    "codi_ref": "AHG170-251-T2-189",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 182",
+    "titol": "Trasllats de domini (rústiques): Campdorà i Calabuig", "data": "1845-1862",
+    "codi_ref": "AHG170-251-T2-179",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 183",
+    "titol": "Trasllats de domini (rústiques): Campdorà", "data": "1854-1862",
+    "codi_ref": "AHG170-251-T2-180",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 184",
+    "titol": "Trasllats de domini (rústiques): Cartellà i Campllong", "data": "1845-1862",
+    "codi_ref": "AHG170-251-T2-181",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 185",
+    "titol": "Trasllats de domini (rústiques): Cassà de la Selva", "data": "1845-1855",
+    "codi_ref": "AHG170-251-T2-182",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 186",
+    "titol": "Trasllats de domini (rústiques): Cassà de la Selva", "data": "1855-1860",
+    "codi_ref": "AHG170-251-T2-183",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 187",
+    "titol": "Trasllats de domini (rústiques): Cassà de la Selva", "data": "1860-1862",
+    "codi_ref": "AHG170-251-T2-184",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 188",
+    "titol": "Trasllats de domini (rústiques): Constantins i Castellar de la Selva", "data": "1845-1862",
+    "codi_ref": "AHG170-251-T2-190",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 189",
+    "titol": "Trasllats de domini (rústiques): Cornellà i Camallera", "data": "1845-1862",
+    "codi_ref": "AHG170-251-T2-191",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 190",
+    "titol": "Trasllats de domini (rústiques): Domeny, Corts i Canet d'Adri", "data": "1845-1862",
+    "codi_ref": "AHG170-251-T2-192",
+    "digitalitzat": false
+    },
+  {
+  "nom": "Tom 191",
+  "titol": "Trasllats de domini (rústiques): Esponellà i Estanyol", "data": "1845-1862",
+  "codi_ref": "AHG170-251-T2-193",
+  "digitalitzat": false
+  },
+  {
+  "nom": "Tom 192",
+  "titol": "Trasllats de domini (rústiques): Flaçà i Fontcoberta", "data": "1845-1862",
+  "codi_ref": "AHG170-251-T2-194",
+  "digitalitzat": false
+  },
+  {
+  "nom": "Tom 193",
+  "titol": "Trasllats de domini (rústiques): Flaçà", "data": "1857-1862",
+  "codi_ref": "AHG170-251-T2-195",
+  "digitalitzat": false
+  },
+  {
+  "nom": "Tom 194",
+  "titol": "Trasllats de domini (rústiques): Fornells i Fallines", "data": "1845-1862",
+  "codi_ref": "AHG170-251-T2-196",
+  "digitalitzat": false
+  },
+  {
+  "nom": "Tom 195",
+  "titol": "Trasllats de domini (rústiques): Gaüses i Granollers de Rocacorba", "data": "1845-1862",
+  "codi_ref": "AHG170-251-T2-198",
+  "digitalitzat": false
+  },
+  {
+  "nom": "Tom 196",
+  "titol": "Trasllats de domini (rústiques): Gallliners, Garrigoles i Ginestà", "data": "1845-1862",
+  "codi_ref": "AHG170-251-T2-197",
+  "digitalitzat": false
+  },
+  {
+  "nom": "Tom 197",
+  "titol": "Trasllats de domini (rústiques): Girona", "data": "1845-1861",
+  "codi_ref": "AHG170-251-T2-199",
+  "digitalitzat": false
+  },
+  {
+  "nom": "Tom 198",
+  "titol": "Trasllats de domini (rústiques): Girona", "data": "1861-1862",
+  "codi_ref": "AHG170-251-T2-200",
+  "digitalitzat": false
+  },
+  {
+  "nom": "Tom 199",
+  "titol": "Trasllats de domini (rústiques): Juià i Parets d'Empordà", "data": "1845-1862",
+  "codi_ref": "AHG170-251-T2-201",
+  "digitalitzat": false
+},
+  {
+    "nom": "Tom 200",
+    "titol": "Trasllats de domini (rústiques): l'Escala, la Pera, Llampaies i Maranyà", "data": "1845-1862",
+    "codi_ref": "AHG170-251-T2-203",
+    "digitalitzat": false
+    },
+  {
+  "nom": "Tom 201",
+  "titol": "Trasllats de domini (rústiques): la Mota, Llambilles i Llorà", "data": "1845-1862",
+  "codi_ref": "AHG170-251-T2-202",
+  "digitalitzat": false
+  },
+  {
+  "nom": "Tom 202",
+  "titol": "Trasllats de domini (rústiques): Madremanya, Montfullà i Montjuïc", "data": "1845-1862",
+  "codi_ref": "AHG170-251-T2-204",
+  "digitalitzat": false
+  },
+  {
+  "nom": "Tom 203",
+  "titol": "Trasllats de domini (rústiques): Medinyà i la Mata", "data": "1845-1862",
+  "codi_ref": "AHG170-251-T2-205",
+  "digitalitzat": false
+  },
+  {
+  "nom": "Tom 204",
+  "titol": "Trasllats de domini (rústiques): Miànegues i Montcalp", "data": "1845-1862",
+  "codi_ref": "AHG170-251-T2-206",
+  "digitalitzat": false
+  },
+  {
+  "nom": "Tom 205",
+  "titol": "Trasllats de domini (rústiques): Orriols, Orfes i Ollers", "data": "1845-1862",
+  "codi_ref": "AHG170-251-T2-207",
+  "digitalitzat": false
+  },
+  {
+  "nom": "Tom 206",
+  "titol": "Trasllats de domini (rústiques): Palol d'Onyar, Montiró, Pelacalç i Palau-sacosta", "data": "1845-1862",
+  "codi_ref": "AHG170-251-T2-209",
+  "digitalitzat": false
+},
+  {
+    "nom": "Tom 207",
+    "titol": "Trasllats de domini (rústiques): Palol de Revardit, Riudellots de la Creu i Pedrinyà", "data": "1845-1862",
+    "codi_ref": "AHG170-251-T2-208",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 208",
+    "titol": "Trasllats de domini (rústiques): Pujals dels Pagesos, Porqueres i Palau-borrell", "data": "1845-1862",
+    "codi_ref": "AHG170-251-T2-211",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 209",
+    "titol": "Trasllats de domini (rústiques): Pujals dels Cavallers", "data": "1845-1862",
+    "codi_ref": "AHG170-251-T2-210",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 210",
+    "titol": "Trasllats de domini (rústiques): Quart i Pujarnol", "data": "1845-1862",
+    "codi_ref": "AHG170-251-T2-212",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 211",
+    "titol": "Trasllats de domini (rústiques): Riudellots de la Selva i Ravós del Terri", "data": "1845-1862",
+    "codi_ref": "AHG170-251-T2-213",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 212",
+    "titol": "Trasllats de domini (rústiques): Celrà", "data": "1845-1859",
+    "codi_ref": "AHG170-251-T2-185",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 213",
+    "titol": "Trasllats de domini (rústiques): Celrà", "data": "1859-1862",
+    "codi_ref": "AHG170-251-T2-186",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 214",
+    "titol": "Trasllats de domini (rústiques): Sant Climent, Sant Esteve de Guialbes i Sant Julià de Llor", "data": "1845-1862",
+    "codi_ref": "AHG170-251-T2-216",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 215",
+    "titol": "Trasllats de domini (rústiques): Sant Daniel i Saldet", "data": "1845-1862",
+    "codi_ref": "AHG170-251-T2-217",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 216",
+    "titol": "Trasllats de domini (rústiques): Sant Daniel", "data": "1860-1862",
+    "codi_ref": "AHG170-251-T2-218",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 217",
+    "titol": "Trasllats de domini (rústiques): Salt, Saus i Serinyà", "data": "1845-1862",
+    "codi_ref": "AHG170-251-T2-215",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 218",
+    "titol": "Trasllats de domini (rústiques): Salt", "data": "1861-1862",
+    "codi_ref": "AHG170-251-T2-214",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 219",
+    "titol": "Trasllats de domini (rústiques): Serinyà", "data": "1859-1862",
+    "codi_ref": "AHG170-251-T2-229",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 220",
+    "titol": "Trasllats de domini (rústiques): Centenys, Sarrià i Santa Eugènia", "data": "1845-1862",
+    "codi_ref": "AHG170-251-T2-1231",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 221",
+    "titol": "Trasllats de domini (rústiques): Sant Gregori i Sant Llorenç de les Arenes", "data": "1845-1862",
+    "codi_ref": "AHG170-251-T2-187",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 222",
+    "titol": "Trasllats de domini (rústiques): Sant Gregori", "data": "1854-1862",
+    "codi_ref": "AHG170-251-T2-219",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 223",
+    "titol": "Trasllats de domini (rústiques): Sant Jordi Desvalls", "data": "1845-1859",
+    "codi_ref": "AHG170-251-T2-221",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 224",
+    "titol": "Trasllats de domini (rústiques): Sant Jordi Desvalls", "data": "1859-1862",
+    "codi_ref": "AHG170-251-T2-222",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 225",
+    "titol": "Trasllats de domini (rústiques): Sant Joan de Mollet i Sant Julià de Ramis", "data": "1845-1862",
+    "codi_ref": "AHG170-251-T2-220",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 226",
+    "titol": "Trasllats de domini (rústiques): Santa Llogaia i Sant Vicenç de Camós", "data": "1845-1862",
+    "codi_ref": "AHG170-251-T2-228",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 227",
+    "titol": "Trasllats de domini (rústiques): Sant Martí Vell i Santa Maria de Camós", "data": "1845-1862",
+    "codi_ref": "AHG170-251-T2-224",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 228",
+    "titol": "Trasllats de domini (rústiques): Sant Martí Vell", "data": "1855-1862",
+    "codi_ref": "AHG170-251-T2-225",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 229",
+    "titol": "Trasllats de domini (rústiques): Sant Mateu de Montnegre, Sant Ponç de Fontajau i Sant Martí de Llémena", "data": "1845-1862",
+    "codi_ref": "AHG170-251-T2-226",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 230",
+    "titol": "Trasllats de domini (rústiques): Sant Medir, Sant Martí de Campmajor i Sant Mori", "data": "1845-1862",
+    "codi_ref": "AHG170-251-T2-227",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 231",
+    "titol": "Trasllats de domini (rústiques): Sant Marçal de Quarantella", "data": "1845-1862",
+    "codi_ref": "AHG170-251-T2-223",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 232",
+    "titol": "Trasllats de domini (rústiques): Sords, Sobrànigues i les Serres", "data": "1845-1862",
+    "codi_ref": "AHG170-251-T2-230",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 233",
+    "titol": "Trasllats de domini (rústiques): Terradelles i Taialà", "data": "1845-1862",
+    "codi_ref": "AHG170-251-T2-231",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 234",
+    "titol": "Trasllats de domini (rústiques): Viladasens, Vila-roja i Vilaür", "data": "1845-1862",
+    "codi_ref": "AHG170-251-T2-234",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 235",
+    "titol": "Trasllats de domini (rústiques): Vilablareix, Ventalló i Vila-robau", "data": "1845-1862",
+    "codi_ref": "AHG170-251-T2-232",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 236",
+    "titol": "Trasllats de domini (rústiques): Vilavenut, Viladamat i Valveralla", "data": "1845-1862",
+    "codi_ref": "AHG170-251-T2-237",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 237",
+    "titol": "Trasllats de domini (rústiques): Viladamat i Palauborrell", "data": "1857-1862",
+    "codi_ref": "AHG170-251-T2-233",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 238",
+    "titol": "Trasllats de domini (rústiques): Vilafreser, Usall i Vilopriu", "data": "1845-1862",
+    "codi_ref": "AHG170-251-T2-236",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 239",
+    "titol": "Trasllats de domini (rústiques): Vilademuls i Viladamí", "data": "1845-1862",
+    "codi_ref": "AHG170-251-T2-235",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 240",
+    "titol": "Trasllats de domini (rústiques): Vilert, Vilanna i Vilamarí", "data": "1845-1862",
+    "codi_ref": "AHG170-251-T2-239",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 241",
+    "titol": "Trasllats de domini (rústiques): Vilert",
+    "data": "1862",
+    "codi_ref": "AHG170-251-T2-238",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 242",
+    "titol": "Registre d'escriptures antigues",
+    "data": "1836-1856",
+    "codi_ref": "AHG170-251-T2-240",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 243",
+    "titol": "Registre d'escriptures antigues",
+    "data": "1875",
+    "codi_ref": "AHG170-251-T2-241",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 244",
+    "titol": "Registre d'escriptures antigues",
+    "data": "1876-1877",
+    "codi_ref": "AHG170-251-T2-242",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 245",
+    "titol": "Ventas por la nación",
+    "data": "1845-1858",
+    "codi_ref": "AHG170-251-T2-244",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 246",
+    "titol": "Ventas por la nación",
+    "data": "1858-1861",
+    "codi_ref": "AHG170-251-T2-243",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 247",
+    "titol": "Ventas por la nación",
+    "data": "1861-1862",
+    "codi_ref": "AHG170-251-T2-245",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 248",
+    "titol": "Registre d'obligacions amb interès, sense trasllat de domini",
+    "data": "1845-1848",
+    "codi_ref": "AHG170-251-T2-246",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 249",
+    "titol": "Registre d'obligacions amb interès, sense trasllat de domini",
+    "data": "1848-1850",
+    "codi_ref": "AHG170-251-T2-247",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 250",
+    "titol": "Registre d'obligacions amb interès, sense trasllat de domini",
+    "data": "1850-1852",
+    "codi_ref": "AHG170-251-T2-248",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 251",
+    "titol": "Registre d'obligacions amb interès, sense trasllat de domini",
+    "data": "1852-1853",
+    "codi_ref": "AHG170-251-T2-249",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 252",
+    "titol": "Registre d'obligacions amb interès, sense trasllat de domini",
+    "data": "1853-1854",
+    "codi_ref": "AHG170-251-T2-250",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 253",
+    "titol": "Registre d'obligacions amb interès, sense trasllat de domini",
+    "data": "1854-1857",
+    "codi_ref": "AHG170-251-T2-251",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 254",
+    "titol": "Registre d'obligacions amb interès, sense trasllat de domini",
+    "data": "1857-1859",
+    "codi_ref": "AHG170-251-T2-252",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 255",
+    "titol": "Registre d'obligacions amb interès, sense trasllat de domini",
+    "data": "1859-1861",
+    "codi_ref": "AHG170-251-T2-253",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 256",
+    "titol": "Registre d'obligacions amb interès, sense trasllat de domini",
+    "data": "1861-1862",
+    "codi_ref": "AHG170-251-T2-254",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 257",
+    "titol": "Registre d'obligacions amb interès, sense trasllat de domini",
+    "data": "1862",
+    "codi_ref": "AHG170-251-T2-255",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 258",
+    "titol": "Registre d'obligacions gratuïtes",
+    "data": "1845-1847",
+    "codi_ref": "AHG170-251-T2-256",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 259",
+    "titol": "Registre d'obligacions gratuïtes",
+    "data": "1847",
+    "codi_ref": "AHG170-251-T2-257",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 260",
+    "titol": "Registre d'obligacions gratuïtes",
+    "data": "1847-1848",
+    "codi_ref": "AHG170-251-T2-258",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 261",
+    "titol": "Registre d'obligacions gratuïtes",
+    "data": "1848",
+    "codi_ref": "AHG170-251-T2-259",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 262",
+    "titol": "Registre d'obligacions gratuïtes",
+    "data": "1848-1849",
+    "codi_ref": "AHG170-251-T2-260",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 263",
+    "titol": "Registre d'obligacions gratuïtes",
+    "data": "1849",
+    "codi_ref": "AHG170-251-T2-261",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 264",
+    "titol": "Registre d'obligacions gratuïtes",
+    "data": "1849-1850",
+    "codi_ref": "AHG170-251-T2-262",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 265",
+    "titol": "Registre d'obligacions gratuïtes",
+    "data": "1850",
+    "codi_ref": "AHG170-251-T2-264",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 266",
+    "titol": "Registre d'obligacions gratuïtes",
+    "data": "1850",
+    "codi_ref": "AHG170-251-T2-263",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 267",
+    "titol": "Registre d'obligacions gratuïtes",
+    "data": "1850-1851",
+    "codi_ref": "AHG170-251-T2-265",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 268",
+    "titol": "Registre d'obligacions gratuïtes",
+    "data": "1851",
+    "codi_ref": "AHG170-251-T2-268",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 269",
+    "titol": "Registre d'obligacions gratuïtes",
+    "data": "1851",
+    "codi_ref": "AHG170-251-T2-267",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 270",
+    "titol": "Registre d'obligacions gratuïtes",
+    "data": "1851",
+    "codi_ref": "AHG170-251-T2-266",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 271",
+    "titol": "Registre d'obligacions gratuïtes",
+    "data": "1851-1852",
+    "codi_ref": "AHG170-251-T2-269",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 272",
+    "titol": "Registre d'obligacions gratuïtes",
+    "data": "1852",
+    "codi_ref": "AHG170-251-T2-272",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 273",
+    "titol": "Registre d'obligacions gratuïtes",
+    "data": "1852",
+    "codi_ref": "AHG170-251-T2-271",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 274",
+    "titol": "Registre d'obligacions gratuïtes",
+    "data": "1852",
+    "codi_ref": "AHG170-251-T2-270",
+    "digitalitzat": true
+  },
+  {
+    "nom": "Tom 275",
+    "titol": "Registre d'obligacions gratuïtes",
+    "data": "1853",
+    "codi_ref": "AHG170-251-T2-274",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 276",
+    "titol": "Registre d'obligacions gratuïtes",
+    "data": "1853",
+    "codi_ref": "AHG170-251-T2-273",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 277",
+    "titol": "Registre d'obligacions gratuïtes",
+    "data": "1853-1854",
+    "codi_ref": "AHG170-251-T2-275",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 278",
+    "titol": "Registre d'obligacions gratuïtes",
+    "data": "1854",
+    "codi_ref": "AHG170-251-T2-278",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 279",
+    "titol": "Registre d'obligacions gratuïtes",
+    "data": "1854",
+    "codi_ref": "AHG170-251-T2-277",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 280",
+    "titol": "Registre d'obligacions gratuïtes",
+    "data": "1854",
+    "codi_ref": "AHG170-251-T2-276",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 281",
+    "titol": "Registre d'obligacions gratuïtes",
+    "data": "1854-1855",
+    "codi_ref": "AHG170-251-T2-279",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 282",
+    "titol": "Registre d'obligacions gratuïtes",
+    "data": "1855",
+    "codi_ref": "AHG170-251-T2-281",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 283",
+    "titol": "Registre d'obligacions gratuïtes",
+    "data": "1855",
+    "codi_ref": "AHG170-251-T2-280",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 284",
+    "titol": "Registre d'obligacions gratuïtes",
+    "data": "1855-1856",
+    "codi_ref": "AHG170-251-T2-282",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 285",
+    "titol": "Registre d'obligacions gratuïtes",
+    "data": "1856",
+    "codi_ref": "AHG170-251-T2-283",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 286",
+    "titol": "Registre d'obligacions gratuïtes",
+    "data": "1856-1857",
+    "codi_ref": "AHG170-251-T2-284",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 287",
+    "titol": "Registre d'obligacions gratuïtes",
+    "data": "1857-1858",
+    "codi_ref": "AHG170-251-T2-285",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 288",
+    "titol": "Registre d'obligacions gratuïtes",
+    "data": "1858-1860",
+    "codi_ref": "AHG170-251-T2-286",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 289",
+    "titol": "Registre d'obligacions gratuïtes",
+    "data": "1860-1861",
+    "codi_ref": "AHG170-251-T2-287",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 290",
+    "titol": "Registre d'obligacions gratuïtes",
+    "data": "1861-1862",
+    "codi_ref": "AHG170-251-T2-288",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 291",
+    "titol": "Registre d'obligacions gratuïtes",
+    "data": "1862",
+    "codi_ref": "AHG170-251-T2-289",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 292",
+    "titol": "Trasllats de domini d'Amer rústica i urbana",
+    "data": "1847-1856",
+    "codi_ref": "AHG170-251-T2-290",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 293",
+    "titol": "Trasllats de domini d'Amer, rústica",
+    "data": "1853-1862",
+    "codi_ref": "AHG170-251-T2-291",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 294",
+    "titol": "Trasllats de domini d'Amer, urbana",
+    "data": "1856-1862",
+    "codi_ref": "AHG170-251-T2-292",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 295",
+    "titol": "[Comptadoria de la Bisbal] Trasllats de domini de Madremanya",
+    "data": "1842-1862",
+    "codi_ref": "AHG170-251-T2-488",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 296",
+    "titol": "[Comptadoria de la Bisbal] Trasllats de domini de Madremanya",
+    "data": "1862",
+    "codi_ref": "AHG170-251-T2-489",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 297",
+    "titol": "[Comptadoria de la Bisbal] Trasllats de domini de Pedrinyà",
+    "data": "1842-1861",
+    "codi_ref": "AHG170-251-T2-490",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 298",
+    "titol": "[Comptadoria de la Bisbal] Trasllats de domini de Sant Cebrià dels Alls",
+    "data": "1836-1861",
+    "codi_ref": "AHG170-251-T2-491",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 299",
+    "titol": "[Comptadoria de la Bisbal] Trasllats de domini de Sant Joan de Mollet",
+    "data": "1844-1868",
+    "codi_ref": "AHG170-251-T2-492",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 300",
+    "titol": "[Comptadoria de la Bisbal] Trasllats de domini de Sant Llorenç de les Arenes",
+    "data": "1849",
+    "codi_ref": "AHG170-251-T2-493",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 301",
+    "titol": "[Comptadoria de Torroella de Montgrí] Llibre 1r. de creacions i lluïcions de censals i crèdits a interès",
+    "data": "1845-1858",
+    "codi_ref": "AHG170-251-T2-498",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 302",
+    "titol": "[Comptadoria de Banyoles] Llibre 1r particular, ordenat per pobles",
+    "data": "1831-1835",
+    "codi_ref": "AHG170-251-T2-494",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 303",
+    "titol": "[Comptadoria de Banyoles] Llibres 1r. i 2n. generals d'hipoteques",
+    "data": "1829-1830",
+    "codi_ref": "AHG170-251-T2-496",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 304",
+    "titol": "[Comptadoria de Banyoles] Llibre 3r. i últim general d'hipoteques",
+    "data": "1831-1835",
+    "codi_ref": "AHG170-251-T2-495",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 305",
+    "titol": "[Comptadoria de Torroella de Montgrí] Registre particular d'escriptures",
+    "data": "1830-1838",
+    "codi_ref": "AHG170-251-T2-500",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 306",
+    "titol": "[Comptadoria de Torroella de Montgrí] Registre particular d'escriptures",
+    "data": "1839-1842",
+    "codi_ref": "AHG170-251-T2-501",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 307",
+    "titol": "[Comptadoria de Torroella de Montgrí] Registre particular d'escriptures",
+    "data": "1843-1844",
+    "codi_ref": "AHG170-251-T2-502",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 308",
+    "titol": "[Comptadoria de Torroella de Montgrí] Registre particular d'escriptures",
+    "data": "1845-1846",
+    "codi_ref": "AHG170-251-T2-503",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 309",
+    "titol": "[Comptadoria de Torroella de Montgrí] Registre particular d'escriptures",
+    "data": "1847-1849",
+    "codi_ref": "AHG170-251-T2-504",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 310",
+    "titol": "[Comptadoria de Torroella de Montgrí] Trasllats de domini: Albons",
+    "data": "1862",
+    "codi_ref": "AHG170-251-T2-506",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 311",
+    "titol": "[Comptadoria de Torroella de Montgrí] Trasllats de domini: Albons",
+    "data": "1862-1869",
+    "codi_ref": "AHG170-251-T2-505",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 312",
+    "titol": "[Comptadoria de Torroella de Montgrí] Trasllats de domini: l'Armentera i Saldet",
+    "data": "1845-1850",
+    "codi_ref": "AHG170-251-T2-517",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 313",
+    "titol": "[Comptadoria de Torroella de Montgrí] Trasllats de domini: l'Armentera i Saldet",
+    "data": "1949-1960",
+    "codi_ref": "AHG170-251-T2-518",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 314",
+    "titol": "[Comptadoria de Torroella de Montgrí] Trasllats de domini: l'Armentera",
+    "data": "1856-1863",
+    "codi_ref": "AHG170-251-T2-519",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 315",
+    "titol": "[Comptadoria de Torroella de Montgrí] Trasllats de domini: Bellcaire",
+    "data": "1848-1860",
+    "codi_ref": "AHG170-251-T2-507",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 316",
+    "titol": "[Comptadoria de Torroella de Montgrí] Trasllats de domini: Bellcaire",
+    "data": "1860-1862",
+    "codi_ref": "AHG170-251-T2-508",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 317",
+    "titol": "[Comptadoria de Torroella de Montgrí] Trasllats de domini: Calabuig",
+    "data": "1846-1862",
+    "codi_ref": "AHG170-251-T2-509",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 318",
+    "titol": "[Comptadoria de Torroella de Montgrí] Trasllats de domini: Camallera",
+    "data": "1854-1857",
+    "codi_ref": "AHG170-251-T2-510",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 319",
+    "titol": "[Comptadoria de Torroella de Montgrí] Trasllats de domini: Colomers",
+    "data": "1845-1861",
+    "codi_ref": "AHG170-251-T2-513",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 320",
+    "titol": "[Comptadoria de Torroella de Montgrí] Trasllats de domini: Colomers",
+    "data": "1861-1884",
+    "codi_ref": "AHG170-251-T2-512",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 321",
+    "titol": "[Comptadoria de Torroella de Montgrí] Trasllats de domini: Colomers",
+    "data": "1861-1862",
+    "codi_ref": "AHG170-251-T2-511",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 322",
+    "titol": "[Comptadoria de Torroella de Montgrí] Trasllats de domini: Gaüses i Pins",
+    "data": "1845-1849",
+    "codi_ref": "AHG170-251-T2-515",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 323",
+    "titol": "[Comptadoria de Torroella de Montgrí] Trasllats de domini: Garrigoles i les Olives",
+    "data": "1845-1860",
+    "codi_ref": "AHG170-251-T2-514",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 324",
+    "titol": "[Comptadoria de Torroella de Montgrí] Trasllats de domini: Jafre",
+    "data": "1846-1857",
+    "codi_ref": "AHG170-251-T2-516",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 325",
+    "titol": "[Comptadoria de Torroella de Montgrí] Trasllats de domini: l'Escala i Empúries",
+    "data": "1845-1861",
+    "codi_ref": "AHG170-251-T2-520",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 326",
+    "titol": "[Comptadoria de Torroella de Montgrí] Trasllats de domini: l'Escala i Empúries",
+    "data": "1855-1860",
+    "codi_ref": "AHG170-251-T2-521",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 327",
+    "titol": "[Comptadoria de Torroella de Montgrí] Trasllats de domini: l'Escala i Empúries",
+    "data": "1856-1863",
+    "codi_ref": "AHG170-251-T2-522",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 328",
+    "titol": "[Comptadoria de Torroella de Montgrí] Trasllats de domini: Llampaies",
+    "data": "1847-1855",
+    "codi_ref": "AHG170-251-T2-523",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 329",
+    "titol": "[Comptadoria de Torroella de Montgrí] Trasllats de domini: Maranyà i Tor",
+    "data": "1847-1865",
+    "codi_ref": "AHG170-251-T2-524",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 330",
+    "titol": "[Comptadoria de Torroella de Montgrí] Trasllats de domini: Montiró i Pelacalç",
+    "data": "1847-1862",
+    "codi_ref": "AHG170-251-T2-525",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 331",
+    "titol": "[Comptadoria de Torroella de Montgrí] Trasllats de domini: Orriols",
+    "data": "1850-1859",
+    "codi_ref": "AHG170-251-T2-526",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 332",
+    "titol": "[Comptadoria de Torroella de Montgrí] Trasllats de domini: Sant Mori",
+    "data": "1845-1861",
+    "codi_ref": "AHG170-251-T2-527",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 333",
+    "titol": "[Comptadoria de Torroella de Montgrí] Trasllats de domini: Saus",
+    "data": "1846-1860",
+    "codi_ref": "AHG170-251-T2-528",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 334",
+    "titol": "[Comptadoria de Torroella de Montgrí] Trasllats de domini: Ventalló",
+    "data": "1846-1860",
+    "codi_ref": "AHG170-251-T2-529",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 335",
+    "titol": "[Comptadoria de Torroella de Montgrí] Trasllats de domini: Ventalló",
+    "data": "1857-1861",
+    "codi_ref": "AHG170-251-T2-530",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 336",
+    "titol": "[Comptadoria de Torroella de Montgrí] Trasllats de domini: Verges i Canet de Verges",
+    "data": "1845-1854",
+    "codi_ref": "AHG170-251-T2-531",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 337",
+    "titol": "[Comptadoria de Torroella de Montgrí] Trasllats de domini: Verges i Canet de Verges",
+    "data": "1852-1859",
+    "codi_ref": "AHG170-251-T2-532",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 338",
+    "titol": "[Comptadoria de Torroella de Montgrí] Trasllats de domini: Verges i Canet de Verges",
+    "data": "1858-1860",
+    "codi_ref": "AHG170-251-T2-533",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 339",
+    "titol": "[Comptadoria de Torroella de Montgrí] Trasllats de domini: Vilaür",
+    "data": "1845-1858",
+    "codi_ref": "AHG170-251-T2-536",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 340",
+    "titol": "[Comptadoria de Torroella de Montgrí] Trasllats de domini: Viladamat i Palaborrell",
+    "data": "1843-1858",
+    "codi_ref": "AHG170-251-T2-534",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 341",
+    "titol": "[Comptadoria de Torroella de Montgrí] Trasllats de domini: Vila-robau",
+    "data": "1845-1862",
+    "codi_ref": "AHG170-251-T2-535",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 342",
+    "titol": "[Comptadoria de Torroella de Montgrí] Trasllats de domini: Vilopriu i Valldavià",
+    "data": "1846-1858",
+    "codi_ref": "AHG170-251-T2-537",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 343",
+    "titol": "[Comptadoria de Torroella de Montgrí] Trasllats de domini: Vulveralla",
+    "data": "1846-1860",
+    "codi_ref": "AHG170-251-T2-538",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 344",
+    "titol": "[Comptadoria de Torroella de Montgrí] Llibre 1r de redempció de censos i censals provinents de manos muertas en virtut de la llei d'1 d'abril de 1855",
+    "data": "1856-1862",
+    "codi_ref": "AHG170-251-T2-497",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 345",
+    "titol": "[Comptadoria de Torroella de Montgrí] Llibre 2n. d'imposició i redempció de censals",
+    "data": "1858-1862",
+    "codi_ref": "AHG170-251-T2-499",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 346",
+    "titol": "[Comptadoria de Torroella de Montgrí] Llibres 1r., 2n. i 3r. de registre d'escriptures antigues, inscrites en virtut de pròrrogues generals",
+    "data": "1836-1861",
+    "codi_ref": "AHG170-251-T2-539",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 347",
+    "titol": "[Comptadoria de Torroella de Montgrí] Registre general d'escriptures",
+    "data": "1829-1831",
+    "codi_ref": "AHG170-251-T2-540",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 348",
+    "titol": "[Comptadoria de Torroella de Montgrí] Registre general d'escriptures",
+    "data": "1832-1837",
+    "codi_ref": "AHG170-251-T2-541",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 349",
+    "titol": "[Comptadoria de Torroella de Montgrí] Registre general d'escriptures",
+    "data": "1838-1840",
+    "codi_ref": "AHG170-251-T2-542",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 350",
+    "titol": "[Comptadoria de Torroella de Montgrí] Registre general d'escriptures",
+    "data": "1841-1842",
+    "codi_ref": "AHG170-251-T2-543",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 351",
+    "titol": "[Comptadoria de Torroella de Montgrí] Registre general d'escriptures",
+    "data": "1843-1844",
+    "codi_ref": "AHG170-251-T2-544",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 352",
+    "titol": "[Comptadoria de Torroella de Montgrí] Registre general d'escriptures",
+    "data": "1845-1846",
+    "codi_ref": "AHG170-251-T2-545",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 353",
+    "titol": "[Comptadoria de Torroella de Montgrí] Registre d'obligacions generals",
+    "data": "1845-1848",
+    "codi_ref": "AHG170-251-T2-547",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 354",
+    "titol": "[Comptadoria de Torroella de Montgrí] Registre general d'escriptures",
+    "data": "1847-1849",
+    "codi_ref": "AHG170-251-T2-546",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 355",
+    "titol": "[Comptadoria de Torroella de Montgrí] Registre d'obligacions generals",
+    "data": "1848-1852",
+    "codi_ref": "AHG170-251-T2-548",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 356",
+    "titol": "[Comptadoria de Torroella de Montgrí] Registre d'obligacions generals",
+    "data": "1852-1855",
+    "codi_ref": "AHG170-251-T2-549",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 357",
+    "titol": "[Comptadoria de Torroella de Montgrí] Registre d'obligacions generals",
+    "data": "1855-1858",
+    "codi_ref": "AHG170-251-T2-550",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 358",
+    "titol": "[Comptadoria de Torroella de Montgrí] Registre d'obligacions generals",
+    "data": "1858-1860",
+    "codi_ref": "AHG170-251-T2-551",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 359",
+    "titol": "[Comptadoria de Torroella de Montgrí] Registre d'obligacions generals",
+    "data": "1860-1862",
+    "codi_ref": "AHG170-251-T2-552",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 360",
+    "titol": "[Comptadoria de Torroella de Montgrí] Registre d'obligacions generals",
+    "data": "1862",
+    "codi_ref": "AHG170-251-T2-553",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 361",
+    "titol": "[Comptadoria de Sant Feliu de Guíxols] Registre particular d'escriptures de Llagostera",
+    "data": "1831-1847",
+    "codi_ref": "AHG170-251-T2-569",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 362",
+    "titol": "[Comptadoria de Sant Feliu de Guíxols] Trasllats de domini de Llagostera, Tossa i Vidreres, urbana",
+    "data": "1846-1869",
+    "codi_ref": "AHG170-251-T2-573",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 363",
+    "titol": "[Comptadoria de Sant Feliu de Guíxols] Trasllats de domini de Llagostera, urbana",
+    "data": "1844-1861",
+    "codi_ref": "AHG170-251-T2-1228",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 364",
+    "titol": "[Comptadoria de Sant Feliu de Guíxols] Trasllats de domini de Llagostera, urbana",
+    "data": "1861-1862",
+    "codi_ref": "AHG170-251-T2-1229",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 365",
+    "titol": "[Comptadoria de Sant Feliu de Guíxols] Trasllats de domini de Llagostera, rústica",
+    "data": "1846-1854",
+    "codi_ref": "AHG170-251-T2-570",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 366",
+    "titol": "[Comptadoria de Sant Feliu de Guíxols] Trasllats de domini de Llagostera, rústica",
+    "data": "1856-1859",
+    "codi_ref": "AHG170-251-T2-571",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 367",
+    "titol": "[Comptadoria de Sant Feliu de Guíxols] Trasllats de domini de Llagostera, rústica",
+    "data": "1859-1862",
+    "codi_ref": "AHG170-251-T2-572",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 368",
+    "titol": "Assentaments de Pedrinyà, Madremanya, Sant Cebrià dels Alls, Sant Llorenç de les Arenes i Sant Joan de Mollet, en els llibres generals del Registre de la Bisbal",
+    "data": "1828-1862",
+    "codi_ref": "AHG170-251-T2-326",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 368",
+    "titol": "Assentaments sense interès, amb extinció de l'úsdefruit, de censos i censals, de Llagostera Extretes dels llibres 1r, 2n, 3r i 4t del Registre de la Bisbal",
+    "data": "",
+    "codi_ref": "AHG170-251-T2-327",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 368",
+    "titol": "Còpia d'escriptures particulars dels pobles de Pedrinyà, Madremanya, Sant Cebrià dels Alls, Sant Llorenç de les Arenes i Sant Joan de Mollet",
+    "data": "1834-1838",
+    "codi_ref": "AHG170-251-T2-329",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 368",
+    "titol": "Inscripcions provinents del Registre de la Bisbal",
+    "data": "1828-1830",
+    "codi_ref": "AHG170-251-T2-330",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 368",
+    "titol": "Llibre 1r. de finques rústiques de Llagostera",
+    "data": "1854-1856",
+    "codi_ref": "AHG170-251-T2-334",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 368",
+    "titol": "Llibre d'obligacions amb i sense interès d'Amer",
+    "data": "1852-1862",
+    "codi_ref": "AHG170-251-T2-335",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 368",
+    "titol": "Llibres particulars de Madremanya, Millars, Pedrinyà, Sant Joan de Mollet, Sant Llorenç de les Arenes i Sant Cebrià dels Alls",
+    "data": "1839-1848",
+    "codi_ref": "AHG170-251-T2-336",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 368",
+    "titol": "Registre dels assentaments corresponents a Amer, extrets del Registre de Santa Coloma",
+    "data": "1834-1846",
+    "codi_ref": "AHG170-251-T2-337",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 369",
+    "titol": "Inscripcions relacionades provinents del Registre d'Olot",
+    "data": "1768-1799",
+    "codi_ref": "AHG170-251-T2-332",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 370",
+    "titol": "Inscripcions relacionades provinents del Registre d'Olot",
+    "data": "1800-1862",
+    "codi_ref": "AHG170-251-T2-333",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 371",
+    "titol": "Certificacions expedides per les comptaduries de Vic, Olot, Figueres, la Bisbal i Santa Coloma",
+    "data": "1820-1862",
+    "codi_ref": "AHG170-251-T2-328",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 372",
+    "titol": "Inscripcions relacionades provinents del Registre de Figueres",
+    "data": "1806-1829",
+    "codi_ref": "AHG170-251-T2-331",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 373",
+    "titol": "Arrendaments i subarrendaments d'Aiguaviva, Sant Mateu de Mollet i Sant Jordi Desvalls",
+    "data": "1841-1855",
+    "codi_ref": "AHG170-251-T2-293",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 374",
+    "titol": "Arrendaments i subarrendaments de Banyoles i Medinyà",
+    "data": "1849-1854",
+    "codi_ref": "AHG170-251-T2-323",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 375",
+    "titol": "Arrendaments i subarrendaments de Vilademí i Constantins",
+    "data": "1841-1862",
+    "codi_ref": "AHG170-251-T2-320",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 376",
+    "titol": "Arrendaments i subarrendaments de Borgonyà i Bordils",
+    "data": "1842-1854",
+    "codi_ref": "AHG170-251-T2-294",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 377",
+    "titol": "Arrendaments i subarrendaments de Corts i Campdorà",
+    "data": "1846-1866",
+    "codi_ref": "AHG170-251-T2-299",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 378",
+    "titol": "?",
+    "data": "",
+    "codi_ref": "",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 379",
+    "titol": "Arrendaments i subarrendaments de Cassà de la Selva",
+    "data": "1847-1861",
+    "codi_ref": "AHG170-251-T2-298",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 380",
+    "titol": "Arrendaments i subarrendaments de Cartellà i Canet d'Adri",
+    "data": "1847-1851",
+    "codi_ref": "AHG170-251-T2-297",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 381",
+    "titol": "Arrendaments i subarrendaments d'Esponellà, Estanyol i Espasens",
+    "data": "1846-1852",
+    "codi_ref": "AHG170-251-T2-324",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 382",
+    "titol": "Arrendaments i subarrendaments de Fornells i Fontcoberta",
+    "data": "1846-1858",
+    "codi_ref": "AHG170-251-T2-300",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 383",
+    "titol": "Arrendaments i subarrendaments de Galliners, Domeny i Garrigoles",
+    "data": "1819",
+    "codi_ref": "AHG170-251-T2-301",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 384",
+    "titol": "Arrendaments i subarrendaments de Girona",
+    "data": "1844-1861",
+    "codi_ref": "AHG170-251-T2-302",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 385",
+    "titol": "Arrendaments i subarrendaments de Juià i Celrà",
+    "data": "1845-1855",
+    "codi_ref": "AHG170-251-T2-303",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 386",
+    "titol": "Arrendaments i subarrendaments de la Mota i les Serres",
+    "data": "1858",
+    "codi_ref": "AHG170-251-T2-304",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 387",
+    "titol": "Arrendaments i subarrendaments de Llambilles i Sant Joan de Mollet",
+    "data": "1848-1862",
+    "codi_ref": "AHG170-251-T2-305",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 388",
+    "titol": "Arrendaments i subarrendaments de Merlant i Santa Eugènia",
+    "data": "1848-1855",
+    "codi_ref": "AHG170-251-T2-308",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 389",
+    "titol": "Arrendaments i subarrendaments de Mata, Vilanna i Llorà",
+    "data": "1848",
+    "codi_ref": "AHG170-251-T2-307",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 390",
+    "titol": "Arrendaments i subarrendaments de Palol de Revardit, Pujals del Pagesos i Pujarnol",
+    "data": "1851-1860",
+    "codi_ref": "AHG170-251-T2-309",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 391",
+    "titol": "Arrendaments i subarrendaments de Porqueres, Palol d'Onyar i Riudellots de la Selva",
+    "data": "1846-1854",
+    "codi_ref": "AHG170-251-T2-310",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 392",
+    "titol": "Arrendaments i subarrendaments de Quart, Orriols i Palau-sacosta",
+    "data": "1846-1855",
+    "codi_ref": "AHG170-251-T2-311",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 393",
+    "titol": "Arrendaments i subarrendaments de Riudellots de la Creu i Ravós de Terri",
+    "data": "1846-1857",
+    "codi_ref": "AHG170-251-T2-312",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 394",
+    "titol": "Arrendaments i subarrendaments de Santa Maria de Camós i Sant Julià de Llor",
+    "data": "1846-1853",
+    "codi_ref": "AHG170-251-T2-317",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 395",
+    "titol": "Arrendaments i subarrendaments de Sords, Centenys i Santa Llogaia de Terri",
+    "data": "1848-1852",
+    "codi_ref": "AHG170-251-T2-318",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 396",
+    "titol": "Arrendaments i subarrendaments de Sant Gregori i Sarrià de Ter",
+    "data": "1846-1857",
+    "codi_ref": "AHG170-251-T2-314",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 397",
+    "titol": "Arrendaments i subarrendaments de Sant Esteve de Guialbes, Sant Mori i Salt",
+    "data": "1850",
+    "codi_ref": "AHG170-251-T2-313",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 398",
+    "titol": "Arrendaments i subarrendaments de Sant Julià de Ramis i Sant Daniel",
+    "data": "1847-1861",
+    "codi_ref": "AHG170-251-T2-315",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 399",
+    "titol": "Arrendaments i subarrendaments de Sant Vicenç de Camós, Sant Medir i Sant Martí Vell",
+    "data": "1845-1856",
+    "codi_ref": "AHG170-251-T2-316",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 400",
+    "titol": "Arrendaments i subarrendaments d'Usall, Vila-roja i Vilamarí",
+    "data": "1853-1862",
+    "codi_ref": "AHG170-251-T2-325",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 401",
+    "titol": "Arrendaments i subarrendaments de Vilablareix i Vilavenut",
+    "data": "1847-1853",
+    "codi_ref": "AHG170-251-T2-319",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 402",
+    "titol": "Arrendaments i subarrendaments de Vilademuls, Ginestar i Montcalp",
+    "data": "1853",
+    "codi_ref": "AHG170-251-T2-322",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 403",
+    "titol": "Arrendaments i subarrendaments de Viladasens, Sant Martí de Llémena i Sant Climent d'Amer",
+    "data": "1850",
+    "codi_ref": "AHG170-251-T2-321",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 404",
+    "titol": "Arrendaments i subarrendaments de Calabuig i Cervià",
+    "data": "1847",
+    "codi_ref": "AHG170-251-T2-295",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 405",
+    "titol": "[Comptadoria de Torroella de Montgrí] Arrendaments i subarrendaments d'Albons",
+    "data": "1853-1860",
+    "codi_ref": "AHG170-251-T2-554",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 406",
+    "titol": "[Comptadoria de Torroella de Montgrí] Arrendaments i subarrendaments de l'Armentera i Saldet",
+    "data": "1846-1851",
+    "codi_ref": "AHG170-251-T2-559",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 407",
+    "titol": "[Comptadoria de Torroella de Montgrí] Arrendaments i subarrendaments de Bellcaire i Ullà",
+    "data": "1846-1856",
+    "codi_ref": "AHG170-251-T2-555",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 408",
+    "titol": "[Comptadoria de Torroella de Montgrí] Arrendaments i subarrendaments de Camallera i Saus",
+    "data": "1853",
+    "codi_ref": "AHG170-251-T2-556",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 409",
+    "titol": "[Comptadoria de Torroella de Montgrí] Arrendaments i subarrendaments de Pins, Gaüses i Llampaies",
+    "data": "1846",
+    "codi_ref": "AHG170-251-T2-562",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 410",
+    "titol": "[Comptadoria de Torroella de Montgrí] Arrendaments i subarrendaments de Garrigoles, les Olives i Sant Mori",
+    "data": "1849",
+    "codi_ref": "AHG170-251-T2-557",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 411",
+    "titol": "[Comptadoria de Torroella de Montgrí] Arrendaments i subarrendaments de Jafre, Colomers, Vilopriu i Valldavià",
+    "data": "",
+    "codi_ref": "AHG170-251-T2-558",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 412",
+    "titol": "[Comptadoria de Torroella de Montgrí] Arrendaments i subarrendaments de l'Escala i Empúries",
+    "data": "1846-1861",
+    "codi_ref": "AHG170-251-T2-560",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 413",
+    "titol": "[Comptadoria de Torroella de Montgrí] Arrendaments i subarrendaments de Palau-borrell, Viladamat, Vulveralla, Ventalló i Vila-rubau",
+    "data": "1852-1860",
+    "codi_ref": "AHG170-251-T2-561",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 414",
+    "titol": "[Comptadoria de Torroella de Montgrí] Arrendaments i subarrendaments de Verges, Canet de Verges, la Tallada, Maranyà i Tor",
+    "data": "1847-1856",
+    "codi_ref": "AHG170-251-T2-563",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 415",
+    "titol": "[Comptadoria de Torroella de Montgrí] Arrendaments i subarrendaments de Vilert, Maregàs i Sant Ponç de Fontajau",
+    "data": "1850",
+    "codi_ref": "AHG170-251-T2-564",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 416",
+    "titol": "Arrendaments i subarrendaments de Campllong i Orfes",
+    "data": "1855",
+    "codi_ref": "AHG170-251-T2-296",
+    "digitalitzat": false
+  },
+  {
+    "nom": "Tom 417",
+    "titol": "Arrendaments i subarrendaments de Madremanya, Pedrinyà, Sant Cebrià dels Alls, Sant Llorenç de les Arenes i Sant Joan de Mollet",
+    "data": "1848-1862",
+    "codi_ref": "AHG170-251-T2-306",
+    "digitalitzat": false
+  }
+]

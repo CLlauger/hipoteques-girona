@@ -1,6 +1,8 @@
 import React, { useState } from "react";
+import { BookOpen, Camera, CameraOff } from "lucide-react";
 import Sidebar from "./Sidebar";
 import "./styles.css";
+import volums from "./volums.json";
 
 const App = () => {
   const [poblacio, setPoblacio] = useState();
@@ -24,6 +26,9 @@ const App = () => {
     setPagina(seccio.length-1);
   }
 
+  const [modalOberta, setModalOberta] = useState(false);
+  const [mostrarDigitalitzats, setMostrarDigitalitzats] = useState(false);
+
   return (
     <div className="layout">
       <Sidebar poblacio={poblacio} setPoblacio={setPoblacio} setSeccio={setSeccio} setPagina={setPagina} setTotalPagines={setTotalPagines} />
@@ -40,7 +45,7 @@ const App = () => {
                   <div className="seccions">
                     {poblacio.nom !== "Índex general" ?
                       Object.keys(poblacio.pagines).map((lletra, index) => (
-                        <button key={index} className={`boto-seccio ${seccio === poblacio.pagines[lletra] ? "boto-actiu" : ""}`}
+                        <button title={lletra} key={index} className={`boto-seccio ${seccio === poblacio.pagines[lletra] ? "boto-actiu" : ""}`}
                           onClick={() => {
                             var novaSeccio = lletra === "portada" ? Object.values(poblacio.pagines).flat() : poblacio.pagines[lletra];
                             setSeccio(novaSeccio);
@@ -52,7 +57,7 @@ const App = () => {
                       ))
                     :
                       Object.keys(poblacio.lletres).map((lletra, index) => (
-                        <button key={index} className={`boto-seccio ${seccio[0].seccio === lletra ? "boto-actiu" : ""}`}
+                        <button title={lletra} key={index} className={`boto-seccio ${seccio[0].seccio === lletra ? "boto-actiu" : ""}`}
                           onClick={() => {
                             var novaSeccio = lletra === "portada" ?
                               Object.entries(poblacio.lletres)
@@ -84,19 +89,19 @@ const App = () => {
                   </div>
                   {/* PAGINACIÓ */}
                   <div className="paginacio">
-                    <button onClick={pagInicial} className="boto-paginacio">
+                    <button title="Anar a la primera pàgina" onClick={pagInicial} className="boto-paginacio">
                       ⏮️
                     </button>
-                    <button onClick={pagEnrere} className="boto-paginacio">
+                    <button title="Anar a la pàgina anterior" onClick={pagEnrere} className="boto-paginacio">
                       ⬅️
                     </button>
                     <span style={{ minWidth: "3rem", textAlign: "center" }}>
                       <h3>{pagina+1} / {totalPagines}</h3>
                     </span>
-                    <button onClick={pagEndavant} className="boto-paginacio">
+                    <button title="Anar a la pàgina següent" onClick={pagEndavant} className="boto-paginacio">
                       ➡️
                     </button>
-                    <button onClick={pagFinal} className="boto-paginacio">
+                    <button title="Anar a l'última pàgina" onClick={pagFinal} className="boto-paginacio">
                       ⏭️
                     </button>
                   </div>
@@ -117,6 +122,46 @@ const App = () => {
             }
         </div>
         : ""}
+        <button className="boto-flotant" onClick={() => setModalOberta(true)}>
+          <BookOpen size={24} />
+        </button>
+        {modalOberta && (
+          <div className="fons-modal" onClick={() => setModalOberta(false)}>
+            <div className="modal" onClick={(e) => e.stopPropagation()}>
+              <h2>Volums</h2>
+              <p>Selecciona un dels volums per consultar-ne el contingut.</p>
+              <div className="llista-scrollable">
+                <div className="llista-volums">
+                  {volums.map((volum, index) => (
+                    mostrarDigitalitzats && !volum.digitalitzat ?
+                    ""
+                    :
+                    <a href={volum.codi_ref != "" ? `https://arxiusenlinia.cultura.gencat.cat/#/cercaavancada/detallunitat/${volum.codi_ref}` : "#"} target={volum.codi_ref != "" ? "_blanket" : "_self"}>
+                      <div key={index} className="volum">
+                        <div className="icona-element">
+                          {volum.digitalitzat ? <Camera size={16} /> : <CameraOff size={16} />}
+                        </div>
+                        <b>{volum.nom} ({volum.data !== "" ? volum.data : "Sense data"})</b><br/>
+                        <small>{volum.titol}</small>
+                      </div>
+                    </a>
+                  ))}
+                </div>
+              </div>
+              <div className="modal-footer">
+                <label className="checkbox-digitalitzats">
+                  <input
+                    type="checkbox"
+                    checked={mostrarDigitalitzats}
+                    onChange={(e) => setMostrarDigitalitzats(e.target.checked)}
+                  />
+                  Mostrar només els volums digitalitzats <Camera size={16} />
+                </label>
+                <button className="boto-tancar" onClick={() => setModalOberta(false)}>Tancar</button>
+              </div>
+            </div>
+          </div>
+        )}
       </div>
     </div>
   );

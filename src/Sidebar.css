@@ -1,23 +1,41 @@
 .sidebar {
-  min-width: 18%;
-  width: 18%;
   min-height: 100vh;
-  max-height: 180vh;
+  max-height: 200vh;
   background-color: #1e1e1e;
   color: white;
   padding: 1rem;
   box-sizing: border-box;
   overflow-y: auto;
   scrollbar-width: none; /* Firefox */
+  transition: width 0.3s ease;
 }
 
 .sidebar::-webkit-scrollbar {
   display: none; /* Chrome, Safari */
 }
 
+.sidebar.expandida {
+  min-width: 18%;
+  width: 18%;
+}
+
+.sidebar.reduida {
+  min-width: 5%;
+  width: 5%;
+}
+
+.toggle-menu {
+  background: transparent;
+  color: white;
+  border: none;
+  padding: 0.5rem;
+  cursor: pointer;
+}
+
 .sidebar-title {
   font-size: 2rem;
   margin-bottom: 2rem;
+  transition: opacity 0.2s ease;
 }
 
 .sidebar-menu {
@@ -30,10 +48,23 @@
   font-size: 1.25rem;
   padding: 0.5rem 0;
   cursor: pointer;
+  transition: opacity 0.2s ease;
 }
 
 .sidebar-menu li:hover {
   background-color: #333;
   padding-left: 0.5rem;
   transition: 0.2s;
+}
+
+.sidebar.reduida .sidebar-menu li,
+.sidebar.reduida .sidebar-title {
+  opacity: 0;
+  pointer-events: none;
+}
+
+.toggle-text {
+  font-size: 1.25rem;
+  font-weight: bold;
+  padding: 0.5rem;
 }
